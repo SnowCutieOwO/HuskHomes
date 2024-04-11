@@ -35,11 +35,10 @@ The HuskHomes API is available for the following platforms:
 1. [API Introduction](#1-api-introduction)
     1. [Setup with Maven](#11-setup-with-maven)
     2. [Setup with Gradle](#12-setup-with-gradle)
-    3. [Next steps](#3-next-steps)
 2. [Adding HuskHomes as a dependency](#2-adding-huskhomes-as-a-dependency)
 3. [Next steps](#3-next-steps)
 
-## 1 API Introduction
+## 1. API Introduction
 
 ### 1.1 Setup with Maven
 <details>
